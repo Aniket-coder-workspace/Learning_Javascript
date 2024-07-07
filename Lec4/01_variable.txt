@@ -1,0 +1,8 @@
+1. Type of variables
+    1. const --> value in this immutable
+    2. let --> value in this (changeble)
+    3. var --> value in this (changeble)
+
+2. Table property -->
+To print a values in (tabular) form in output 
+
