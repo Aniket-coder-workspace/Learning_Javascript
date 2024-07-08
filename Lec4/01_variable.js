@@ -23,3 +23,24 @@ console.log(book);
 let a;
 a = "Anee";
 console.log(a);
+
+/* Uses of variables
+1. Const variable Use --> 
+*/
+const num = 705;
+console.log(num);
+
+//2. var variable Use --> 
+var car = 'Volkswagon'
+console.log(car);
+var num2;
+num2 = 6795;
+console.log(num2);
+
+//3. let variable Use --> 
+let bike = "Harley Davidson";
+console.log(bike);
+
+let carSpeed;
+carSpeed = "56 km/hr";
+console.log(carSpeed);
