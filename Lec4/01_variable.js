@@ -16,5 +16,10 @@ console.table([accountId1, accountEmail1, accountPassword1, accountCity1]);
 
 // This is one type of to assign values
 let book;
-book = "Rich Dad Poor Dad";
+book = "Rich Dad Poor Dad\n"; // \n is used for creating a second lne to print a our code
 console.log(book);
+
+//Example to prove JavaScript is a (dynmaically) typed language
+let a;
+a = "Anee";
+console.log(a);
