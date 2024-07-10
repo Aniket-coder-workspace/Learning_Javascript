@@ -1,0 +1,11 @@
+Objects in js -->
+used for locating key value pair
+for ex:- 
+
+const item = {
+    "Anee": "MAcbook Air M1",
+    "Ashish":"MAcbook Air M2",
+    "Rohnish": "MAcbook pro M3"
+ };
+
+console.log(item["Anee"]);

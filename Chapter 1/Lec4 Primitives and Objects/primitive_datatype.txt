@@ -1,0 +1,10 @@
+Primitive Datatype in Javascript --> 
+there are 7 Datatype in Javascript
+in short form --> nn bb ss u
+1. Null - This is used for showing empty (null)
+2. Number - This is used for showing any number
+3. symbol - This is used for showing any symbol
+4. String - This is used for showing any string
+5. Boolean - This contains 2 value 1. True 2. False
+6. Bigint - This is used for showing "Big integer".
+7. Undefined - This is used for showing any Undefined value.

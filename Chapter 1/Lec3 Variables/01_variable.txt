@@ -1,0 +1,13 @@
+1. Javascript is a dynamically typed language
+
+2. Type of variables
+    1. const --> value in this immutable -- (prefer not to use var bcaz in functional scope)
+    2. let --> value (changeble) this is most probably usable
+    3. var --> value (changeble) thid is not use nowdays
+
+3. Table property -->
+To print a values in (tabular) form in output 
+
+4. \n is used for creating a second line to print a our code
+
+5. variables is (case sensetive) in js for ex:- Anee and aNee are 2 different variables
