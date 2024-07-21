@@ -31,4 +31,6 @@ console.log(num3);
 let form = undefined;
 console.log(form);
 
-
+let z;
+z = 45.9099;
+console.log(typeof(z));
